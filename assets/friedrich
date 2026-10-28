@@ -1,0 +1,28 @@
+# Normal
+palette = 0=#2a2a38
+palette = 1=#c97a7e
+palette = 2=#8fb08a
+palette = 3=#d0b483
+palette = 4=#aabbdd
+palette = 5=#b493b8
+palette = 6=#8fb3b3
+palette = 7=#c9c9d1
+
+# Bright
+palette = 8=#55556a
+palette = 9=#d98f92
+palette = 10=#a3c49d
+palette = 11=#e0c79a
+palette = 12=#c3cee6
+palette = 13=#c9a9cd
+palette = 14=#a3c7c7
+palette = 15=#ffeeee
+
+background = #333344
+foreground = #ffeeee
+
+cursor-color = #aabbdd
+cursor-text = #333344
+
+selection-background = #4a4a60
+selection-foreground = #ffeeee
